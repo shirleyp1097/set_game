@@ -9,6 +9,11 @@
     flex-wrap: wrap;
 }
 
+.card {
+    background-color: red;
+}
+
+
 .break {
     width: 100%;
 }
